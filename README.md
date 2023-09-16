@@ -1,13 +1,8 @@
 <h1 align="center">Hello 👋, I'm Ayush Ranjan</h1>
 <h3 align="center">"Exploring Cloud, Crafting Code, and Chasing Dreams"</h3>
 
-<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-ranjan07&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-ranjan07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush-ranjan07" alt="ayush-ranjan07" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ayush_ranjan07" target="blank"><img src="https://img.shields.io/twitter/follow/ayush_ranjan07?logo=twitter&style=for-the-badge" alt="ayush_ranjan07" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://ayushxranjan.netlify.app/](https://ayushxranjan.netlify.app/)
 
