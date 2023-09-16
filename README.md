@@ -1,4 +1,5 @@
-<h1 align="center">Hello 👋, I'm Ayush Ranjan</h1>
+![logo](https://github.com/ayush-ranjan07/ayush-ranjan07/blob/main/20230916_232720_0000.png)
+<h1 align="center">Hello 👋, I'm</h1>
 <h3 align="center">"Exploring Cloud, Crafting Code, and Chasing Dreams"</h3>
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
