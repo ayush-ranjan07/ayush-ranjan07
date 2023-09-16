@@ -1,4 +1,3 @@
-![logo](https://github.com/ayush-ranjan07/ayush-ranjan07/blob/main/20230916_232720_0000.png)
 <h1 align="center">Hello 👋, I'm Ayush Ranjan</h1>
 <h3 align="center">"Exploring Cloud, Crafting Code, and Chasing Dreams"</h3>
 
