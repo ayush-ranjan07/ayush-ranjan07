@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Ayush Ranjan</h1>
 <h3 align="center">"Exploring Cloud, Crafting Code, and Chasing Dreams"</h3>
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 - 👨‍💻 All of my projects are available at [https://ayushxranjan.netlify.app/](https://ayushxranjan.netlify.app/)
