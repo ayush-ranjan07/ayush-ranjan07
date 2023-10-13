@@ -6,16 +6,15 @@
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <a href="https://twitter.com/ayush_ranjan07" target="blank"><img src="https://img.shields.io/twitter/follow/ayush_ranjan07?logo=twitter&style=for-the-badge" alt="ayush_ranjan07" /></a> </p>
 
+👨‍💻 All of my projects are available at [https://ayushxranjan.netlify.app/](https://ayushxranjan.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://ayushxranjan.netlify.app/](https://ayushxranjan.netlify.app/)
+📝 I regularly write articles on [https://medium.com/@ayush.ranjan0503](https://medium.com/@ayush.ranjan0503)
 
-- 📝 I regularly write articles on [https://medium.com/@ayush.ranjan0503](https://medium.com/@ayush.ranjan0503)
+📫 How to reach me **ayush.ranjan0503i@gmail.com**
 
-- 📫 How to reach me **ayush.ranjan0503i@gmail.com**
+📄 Know about my experiences [https://ayushxranjan.netlify.app/images/Resume-ayushranjan.pdf](https://ayushxranjan.netlify.app/images/Resume-ayushranjan.pdf)
 
-- 📄 Know about my experiences [https://ayushxranjan.netlify.app/images/Resume-ayushranjan.pdf](https://ayushxranjan.netlify.app/images/Resume-ayushranjan.pdf)
-
-- ⚡ Fun fact **I thought I was funny.**
+⚡ Fun fact **I thought I was funny.**
 
 
 
