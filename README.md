@@ -14,7 +14,7 @@
 
 📄 Know about my experiences [https://ayushxranjan.netlify.app/images/Resume-ayushranjan.pdf](https://ayushxranjan.netlify.app/images/Resume-ayushranjan.pdf)
 
-⚡ Fun fact **I thought I was funny.**
+
 
 
 
