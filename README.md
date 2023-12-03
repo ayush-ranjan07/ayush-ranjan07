@@ -1,5 +1,5 @@
 ![logo](https://github.com/ayush-ranjan07/ayush-ranjan07/blob/main/20230917_091822_0000.png)
-<h1 align="center">Hello 👋,I'm Ayush Ranjan</h1>
+<h1 align="center">Hello, I'm Ayush Ranjan</h1>
 
 <h3 align="center">"Exploring Cloud, Crafting Code, and Chasing Dreams"</h3>
 
