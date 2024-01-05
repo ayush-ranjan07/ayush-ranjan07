@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/ayush_ranjan07" target="blank"><img src="https://img.shields.io/twitter/follow/ayush_ranjan07?logo=twitter&style=for-the-badge" alt="ayush_ranjan07" /></a> </p>
 
 
-📝 I regularly write articles on [https://medium.com/@ayush.ranjan0503](https://medium.com/@ayush.ranjan0503)
+📝 I write articles on [https://medium.com/@ayush.ranjan0503](https://medium.com/@ayush.ranjan0503)
 
 📫 How to reach me **ayush.ranjan0503i@gmail.com**
 
