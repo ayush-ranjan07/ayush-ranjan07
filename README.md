@@ -11,7 +11,7 @@
 
 📫 How to reach me **ayush.ranjan0503i@gmail.com**
 
-📄 Know about my experiences [https://ayushxranjan.netlify.app/images/Resume-ayushranjan.pdf](https://ayushxranjan.netlify.app/images/Resume-ayushranjan.pdf)
+📄 Know about me [https://ayushxranjan.netlify.app/images/Resume-ayushranjan.pdf](https://ayushxranjan.netlify.app/images/Resume-ayushranjan.pdf)
 
 
 
