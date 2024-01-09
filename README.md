@@ -9,7 +9,7 @@
 
 📝 I write articles on [https://medium.com/@ayush.ranjan0503](https://medium.com/@ayush.ranjan0503)
 
-📫 How to reach me **ayush.ranjan0503i@gmail.com**
+📫 Reach me **ayush.ranjan0503i@gmail.com**
 
 📄 Know about me [https://ayushxranjan.netlify.app/images/Resume-ayushranjan.pdf](https://ayushxranjan.netlify.app/images/Resume-ayushranjan.pdf)
 
