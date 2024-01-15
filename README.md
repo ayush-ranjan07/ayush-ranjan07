@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="center">"Exploring Cloud, Crafting Code, and Chasing Dreams"</h6>
+<h4 align="center">"Exploring Cloud, Crafting Code, and Chasing Dreams"</h4>
 
 ###
 
@@ -22,7 +22,9 @@
   <a href="ayush.ranjan0503i@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+   <a href="https://stackoverflow.com/users/23247606/ayush-ranjan" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+   </a>
 </div>
 
 ###
