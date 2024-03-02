@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">About Me:<br><br>📝 I write blogs on https://medium.com/@ayush.ranjan0503<br><br>📫 Reach me ayush.ranjan0503i@gmail.com<br><br>📄 Know about me https://ayushxranjan.netlify.app/images/Resume-ayushranjan.pdf</p>
+<p align="left">About Me:<br><br>📝 I write articles on https://medium.com/@ayush.ranjan0503<br><br>📫 Reach me ayush.ranjan0503i@gmail.com<br><br>📄 Know about me https://ayushxranjan.netlify.app/images/Resume-ayushranjan.pdf</p>
 
 ###
 
